@@ -16,7 +16,7 @@ AdventureWorksLT-Project/
 │ └── cleaned/ # Cleaned and transformed SQLs
 │
 ├── scripts/
-│ ├── cleaning.py # Python scripts for cleaning , transforming and visualizing data
+│ ├── ETL_Projet.ipynb # Python scripts for cleaning , transforming and visualizing data
 │
 ├── notebooks/ # Optional: Jupyter notebooks
 │
