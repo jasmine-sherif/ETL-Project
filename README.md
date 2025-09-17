@@ -10,18 +10,18 @@ This project performs end-to-end data analysis on the AdventureWorksLT database.
 ## 🗂 Project Structure
 
 AdventureWorksLT-Project/
-│
-├── data/
-│ ├── raw/ # Original AdventureWorksLT SQLs
-│ └── cleaned/ # Cleaned and transformed SQLs
-│
-├── scripts/
-│ ├── ETL_Projet.ipynb # Python scripts for cleaning , transforming and visualizing data
-│
-├── notebooks/ # Optional: Jupyter notebooks
-│
-├── README.md # Project description
-└── requirements.txt # Python packages used
+
+data:
+ raw: Original AdventureWorksLT SQLs
+ cleaned: Cleaned and transformed SQLs
+
+scripts:
+ETL_Projet.ipynb # Python scripts for cleaning , transforming and visualizing data
+
+notebooks Optional: Jupyter notebooks
+
+README.md # Project description
+requirements.txt # Python packages used
 
 
  🔹 Project Workflow
