@@ -16,7 +16,8 @@ data:
  cleaned: Cleaned and transformed SQLs
 
 scripts:
-ETL_Projet.ipynb  Python scripts for cleaning , transforming and visualizing data
+ETL_Projet.ipynb  Python scripts for cleaning and transforming 
+visualization.ipynb for visualizing data
 
 notebooks Optional: Jupyter notebooks
 
